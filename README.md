@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ananthak45/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ananthak45/leetcode-problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1517-restore-the-array](https://github.com/ananthak45/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ananthak45/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ananthak45/leetcode-problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Hash Table
 |  |
 | ------- |
