@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/ananthak45/leetcode-problems/tree/master/0087-scramble-string) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 ## Two Pointers
 |  |
