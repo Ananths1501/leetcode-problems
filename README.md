@@ -70,9 +70,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ananthak45/leetcode-problems/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ananthak45/leetcode-problems/tree/master/1229-shortest-path-with-alternating-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
