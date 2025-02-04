@@ -67,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/ananthak45/leetcode-problems/tree/master/1229-shortest-path-with-alternating-colors) |
+## Graph
+|  |
+| ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/ananthak45/leetcode-problems/tree/master/1229-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
