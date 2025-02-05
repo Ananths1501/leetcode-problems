@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ananthak45/leetcode-problems/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ananthak45/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Graph
 |  |
 | ------- |
@@ -81,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ananthak45/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
+## Tree
+|  |
+| ------- |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ananthak45/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
 <!---LeetCode Topics End-->
