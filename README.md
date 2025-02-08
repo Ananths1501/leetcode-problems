@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/ananthak45/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/ananthak45/leetcode-problems/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
