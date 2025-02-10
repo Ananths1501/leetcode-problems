@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
+| [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/ananthak45/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/ananthak45/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
@@ -105,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ananthak45/leetcode-problems/tree/master/0177-nth-highest-salary) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
