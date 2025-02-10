@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/ananthak45/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ananthak45/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ananthak45/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananthak45/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/ananthak45/leetcode-problems/tree/master/1380-number-of-closed-islands) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
