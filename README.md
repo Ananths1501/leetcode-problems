@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
+| [1380-number-of-closed-islands](https://github.com/ananthak45/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ananthak45/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ananthak45/leetcode-problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
+| [1380-number-of-closed-islands](https://github.com/ananthak45/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ananthak45/leetcode-problems/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1380-number-of-closed-islands](https://github.com/ananthak45/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ananthak45/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ananthak45/leetcode-problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/ananthak45/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
+| [1380-number-of-closed-islands](https://github.com/ananthak45/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ananthak45/leetcode-problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ananthak45/leetcode-problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Tree
@@ -113,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [1380-number-of-closed-islands](https://github.com/ananthak45/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
