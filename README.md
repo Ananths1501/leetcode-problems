@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1517-restore-the-array](https://github.com/ananthak45/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ananthak45/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ananthak45/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ananthak45/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananthak45/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ananthak45/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -123,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ananthak45/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
