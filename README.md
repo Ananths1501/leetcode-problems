@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananthak45/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ananthak45/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ananthak45/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/ananthak45/leetcode-problems/tree/master/0087-scramble-string) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
 ## Sorting
 |  |
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ananthak45/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
