@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/ananthak45/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ananthak45/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ananthak45/leetcode-problems/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ananthak45/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ananthak45/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ananthak45/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ananthak45/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ananthak45/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ananthak45/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
