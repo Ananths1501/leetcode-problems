@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananthak45/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ananthak45/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ananthak45/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 ## Array
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ananthak45/leetcode-problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ananthak45/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ananthak45/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
