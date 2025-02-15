@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/ananthak45/leetcode-problems/tree/master/0051-n-queens) |
 | [0813-all-paths-from-source-to-target](https://github.com/ananthak45/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ananthak45/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Database
 |  |
 | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ananthak45/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Math
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ananthak45/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
