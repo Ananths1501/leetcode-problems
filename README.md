@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ananthak45/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/ananthak45/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0087-scramble-string](https://github.com/ananthak45/leetcode-problems/tree/master/0087-scramble-string) |
 | [0639-decode-ways-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0639-decode-ways-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ananthak45/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/ananthak45/leetcode-problems/tree/master/0087-scramble-string) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ananthak45/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ananthak45/leetcode-problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
