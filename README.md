@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
 | [0639-decode-ways-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0639-decode-ways-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
+| [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1517-restore-the-array](https://github.com/ananthak45/leetcode-problems/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ananthak45/leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ananthak45/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ananthak45/leetcode-problems/tree/master/2383-add-two-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ananthak45/leetcode-problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ananthak45/leetcode-problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
