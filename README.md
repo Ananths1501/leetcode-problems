@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ananthak45/leetcode-problems/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/ananthak45/leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ananthak45/leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2645-pass-the-pillow](https://github.com/ananthak45/leetcode-problems/tree/master/2645-pass-the-pillow) |
 | [3447-clear-digits](https://github.com/ananthak45/leetcode-problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/ananthak45/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/ananthak45/leetcode-problems/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ananthak45/leetcode-problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2645-pass-the-pillow](https://github.com/ananthak45/leetcode-problems/tree/master/2645-pass-the-pillow) |
 | [2748-calculate-delayed-arrival-time](https://github.com/ananthak45/leetcode-problems/tree/master/2748-calculate-delayed-arrival-time) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ananthak45/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
