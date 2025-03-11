@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ananthak45/leetcode-problems/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ananthak45/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ananthak45/leetcode-problems/tree/master/2383-add-two-integers) |
@@ -172,9 +173,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ananthak45/leetcode-problems/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ananthak45/leetcode-problems/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
