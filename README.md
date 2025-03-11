@@ -157,9 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2238-a-number-after-a-double-reversal](https://github.com/ananthak45/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ananthak45/leetcode-problems/tree/master/2383-add-two-integers) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/ananthak45/leetcode-problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ananthak45/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ananthak45/leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/ananthak45/leetcode-problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
