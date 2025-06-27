@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ananthak45/leetcode-problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ananthak45/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0198-house-robber](https://github.com/ananthak45/leetcode-problems/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/ananthak45/leetcode-problems/tree/master/0087-scramble-string) |
+| [0198-house-robber](https://github.com/ananthak45/leetcode-problems/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
