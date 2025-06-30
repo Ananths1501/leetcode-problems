@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/ananthak45/leetcode-problems/tree/master/0971-shortest-bridge) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0639-decode-ways-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0639-decode-ways-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
