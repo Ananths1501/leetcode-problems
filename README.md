@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ananthak45/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/ananthak45/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0087-scramble-string](https://github.com/ananthak45/leetcode-problems/tree/master/0087-scramble-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/ananthak45/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0639-decode-ways-ii) |
 | [1129-longest-string-chain](https://github.com/ananthak45/leetcode-problems/tree/master/1129-longest-string-chain) |
 | [1517-restore-the-array](https://github.com/ananthak45/leetcode-problems/tree/master/1517-restore-the-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/ananthak45/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0639-decode-ways-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ananthak45/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
