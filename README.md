@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ananthak45/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ananthak45/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ananthak45/leetcode-problems/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/ananthak45/leetcode-problems/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/ananthak45/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0213-house-robber-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ananthak45/leetcode-problems/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/ananthak45/leetcode-problems/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/ananthak45/leetcode-problems/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/ananthak45/leetcode-problems/tree/master/1086-divisor-game) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/ananthak45/leetcode-problems/tree/master/2571-find-the-pivot-integer) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ananthak45/leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
