@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ananthak45/leetcode-problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ananthak45/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/ananthak45/leetcode-problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ananthak45/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ananthak45/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ananthak45/leetcode-problems/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/ananthak45/leetcode-problems/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/ananthak45/leetcode-problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ananthak45/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
