@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ananthak45/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ananthak45/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ananthak45/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ananthak45/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ananthak45/leetcode-problems/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ananthak45/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0376-wiggle-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ananthak45/leetcode-problems/tree/master/0403-frog-jump) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ananthak45/leetcode-problems/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ananthak45/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
