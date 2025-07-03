@@ -2,7 +2,7 @@ class Solution {
 
 
     public int f(int i,int[] prices,int buy,int dp[][]){
-        if(i==prices.length || i==prices.length+1)return 0;
+        if(i>=prices.length)return 0;
         if(dp[i][buy]!=-1) return dp[i][buy];
         int profit=0;
         if(buy==1){
