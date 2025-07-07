@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ananthak45/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/ananthak45/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ananthak45/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/ananthak45/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ananthak45/leetcode-problems/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ananthak45/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/ananthak45/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ananthak45/leetcode-problems/tree/master/0871-keys-and-rooms) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ananthak45/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ananthak45/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/ananthak45/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 ## Simulation
